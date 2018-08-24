@@ -1,0 +1,15 @@
+#title {
+background-color: orange;
+} 
+#vak2 {
+background-color: blue;
+}
+#vak1 {
+background-color: green;
+}
+#outer {
+flex-direction:column
+}
+#inner {
+flex-direction:column
+}

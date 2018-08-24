@@ -1,0 +1,81 @@
+html{
+  background-color:wheat;
+}
+h1{
+    color: gold;
+    font-size:3cm;
+    text-shadow: 2px 2px 2px black;
+    text-align: center
+    
+
+}
+h2{
+   color: goldenrod;
+   font-size:1cm;
+text-shadow: 2px 2px 2px black;
+
+}
+#jannes {
+    text-align: center
+}
+p{
+    color: black;
+    font-size:0.5cm;
+    }
+img{
+    width:400;
+    height:400;
+    box-shadow: 10px 5px 100px;
+
+    
+
+
+    
+
+
+}
+p{
+font-family:"Segoe"'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-shadow: 0.01px 0.01px 0.01px black;
+}
+
+#menu{
+    background-color: darkgoldenrod;
+    widows: 3cm;
+    height: 3cm;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+#links{
+    margin: 0.5cm;
+    display: flex;
+    flex-direction: column;
+}
+p{
+text-align: center
+}
+*{
+   text-align: center
+}

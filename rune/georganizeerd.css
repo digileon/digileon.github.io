@@ -1,0 +1,219 @@
+#titel {
+    text-align: center;
+}
+#menu {
+    display: flex;
+    flex-direction: column;
+   text-align: left;
+    background-color: lightsalmon;
+}
+#inhoud-en-menu {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+}
+#inhoud {
+display: flex;
+flex-direction: row;    
+}
+
+#wapens {
+    max-width: 76px;
+}
+h2{
+    height: 2cm;
+   margin-top: 0;
+   margin-bottom: 0;
+}
+#epic-burst {
+    background-color: purple;
+}
+
+div h2{
+    flex-direction: column;
+}
+
+img {
+    width: 2cm;
+    flex-direction: column;
+}
+#golden-burst {
+    background-color: gold;
+}
+#green-burst {
+    background-color: green;
+}
+#blue-burst {
+    background-color: blue;
+}
+#green-ar {
+    background-color: green;
+}
+#blue-ar {
+    background-color: blue;
+}
+#epic-ar {
+    background-color: purple;
+}
+#golden-ar {
+    background-color: gold;
+}
+#blue-scoped-ar {
+    background-color: blue;
+}
+#epic-scoped-ar {
+    background-color: purple;
+}
+#green-drum-gun {
+    background-color: green;
+}
+#blue-drum-gun {
+    background-color: blue;
+}
+#blue-lmg {
+    background-color: blue;
+}
+#epic-lmg {
+    background-color: purple;
+}
+#epic-dubble-barrel-shotgun {
+    background-color: purple;
+}
+#golden-dubble-barrel-shotgun {
+    background-color: gold;
+}
+#epic-minigun {
+    background-color: purple;
+}
+#golden-minigun {
+    background-color: gold;
+}
+#epic-terminal-scoped-ar {
+    background-color: purple;
+}
+#golden-terminal-scoped-ar {
+    background-color: gold;
+}
+#epic-heavy-shotgun {
+    background-color: purple;
+}
+#golden-heavy-shotgun {
+    background-color: gold;
+}
+#green-pump-shotgun {
+    background-color: green;
+}
+#blue-pump-shotgun {
+    background-color: blue;
+}
+#green-tactical-shotgun {
+    background-color: green;
+}
+#blue-tactical-shotgun {
+    background-color: blue;
+}
+#epic-dual-pistel {
+    background-color: purple;
+}
+#golden-dual-pistel {
+    background-color: gold;
+}
+#epic-hand-cannon {
+    background-color: purple;
+}
+#golden-hand-cannon {
+    background-color: gold;
+}
+#green-pistel {
+    background-color: green;
+}
+#blue-pistel {
+    background-color: blue;
+}
+#green-revolver {
+    background-color: green;
+}
+#blue-revolver {
+    background-color: blue;
+}
+#epic-suppressed-pistel {
+    background-color: purple;
+}
+#golden-suppressed-pistel {
+    background-color: gold;
+}
+#epic-compact-smg {
+    background-color: purple;
+}
+#golden-compact-smg {
+    background-color: gold;
+}
+#green-smg {
+    background-color: green;
+}
+#blue-smg {
+    background-color: blue;
+}
+#green-suppressed-smg {
+    background-color: green;
+}
+#green-compact-smg {
+    background-color: green;
+}
+#blue-compact-smg {
+    background-color: blue;
+}
+#blue-suppressed-smg {
+    background-color: blue;
+}
+#blue-bolt-action-sniper {
+    background-color: blue;
+}
+#epic-bolt-action-sniper {
+    background-color: purple;
+}
+#golden-bolt-action-sniper {
+    background-color: gold;
+}
+#epic-heavy-sniper {
+    background-color: purple;
+}
+#golden-heavy-sniper {
+    background-color: gold;
+}
+#green-hunting-rifle {
+    background-color: green;
+}
+#blue-hunting-rifle {
+    background-color: blue;
+}
+#epic-semi-auto-sniper {
+    background-color: purple;
+}
+#golden-semi-auto-sniper {
+    background-color: gold;
+}
+#blue-grenade-launcher {
+    background-color: blue;
+}
+#epic-grenade-launcher {
+    background-color: purple;
+}
+#golden-grenade-launcher {
+    background-color: gold;
+}
+#epic-guided-missle {
+    background-color: purple;
+}
+#golden-guided-missle {
+    background-color: gold;
+}
+#blue-rocket-launcher {
+    background-color: blue;
+}
+#epic-rocket-launcher {
+    background-color: purple
+}
+#golden-rocket-launcher {
+    background-color: gold
+}

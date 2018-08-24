@@ -1,0 +1,35 @@
+body {
+    background-image:url(https://cdn.dribbble.com/users/315884/screenshots/1516118/untitled-1.gif);
+    background-size: cover;
+    color: limegreen;
+    font-size: 7mm;
+}
+
+h1 {
+    color : red;
+    background : url(https://optclean.com.br/wp-content/uploads/2016/11/capa-para-facebook21.jpg)
+}
+
+a {
+    color: beige;
+}
+
+#bloxwatch {
+    border: 3px solid white;
+}
+
+#poke {
+    border: 3px solid blue;
+}
+h1 {
+    text-align: center
+}
+#alax {
+    border: 3px solid hotpink;
+}
+
+#fotos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

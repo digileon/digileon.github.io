@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://cdn.dribbble.com/users/31826/screenshots/2241365/inf2.gif);
+    background-size: cover;
+    font-size: 4cm;
+    
+}
+a{
+    color: honeydew;
+}
+#link{
+    text-align: center;
+}
+h1{
+    color: oldlace;
+    text-align: center;
+}
+#a{
+    text-align: center
+}
+
+

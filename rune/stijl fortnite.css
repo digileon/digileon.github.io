@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+    background-color: yellow;
+}
+h2 {
+    color: brown;
+    background-color: yellow;
+}
+p {
+    color: antiquewhite;
+    background-color: yellowgreen;
+}
+em {
+    color: black;
+    background-color: antiquewhite;
+}
+ol {
+    background-color: blanchedalmond;
+}
+li {
+    color: grey;
+}
+mark {
+    background-color: aqua;
+}

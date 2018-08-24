@@ -1,0 +1,12 @@
+h1{
+    color : blue ;
+    background-color : rgb(105, 128, 0) ;
+    flex-direction: row
+}
+h2 strong{
+       color: rgb(0, 255, 64);
+       background-color : rgba(184, 135, 11, 0.952);
+}
+h4 strong{
+       flex-direction: column
+}

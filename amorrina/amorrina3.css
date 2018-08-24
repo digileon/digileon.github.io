@@ -1,0 +1,69 @@
+body{
+  background-image: url("https://kunstigart.nl/wp-content/uploads/2014/03/Het-heelal-achtergronden-ruimte-hd-melkweg-wallpapers-ruimte-01.jpg")
+}
+h1{
+  color:rgb(255, 255, 255);
+ 
+  }
+
+h2{ 
+  color:rgb(255, 255, 255); 
+}
+ 
+
+
+
+
+
+a{
+  color: pink;font-size:1cm;
+
+
+  
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(222, 245, 14);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color: rgb(10, 209, 133);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(222, 245, 14);;
+}
+
+.active {
+  background-color:rgb(222, 245, 14);;
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

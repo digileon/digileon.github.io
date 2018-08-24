@@ -1,0 +1,4 @@
+#horizontaal{
+display:flex;
+flex-direction: row;
+}

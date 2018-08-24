@@ -1,0 +1,57 @@
+h1 {
+    color:rgb(177, 195, 209);font-size: 2.05cm;
+} 
+
+h2 {
+    color: rgb(208, 196, 209);
+}
+
+body { 
+  background-image:url(https://i.pinimg.com/originals/00/fe/f2/00fef2d94731cbdd3ccfa09b19bfd04d.jpg) 
+}
+
+
+a{ 
+color: rgb(255, 251, 251);font-size: 1cm
+
+}
+a{
+    background-color: crimson;
+    color: chartreuse;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(231, 12, 12);
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: red;
+}
+
+
+img{ 
+    width: 260;
+    height: 300;
+    box-shadow: 9px 9px 9px;
+   color: aliceblue
+}
